@@ -1,0 +1,23 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.tabs_sidebar {
+    display: flex;
+    justify-content: space-around;
+    /* background-color: wheat; */
+}
+
+.tabs_btn, .add_btn {
+    background-color: peachpuff;
+    border: none;
+    outline: none;
+    width: 40px;
+    height: 40px;
+    margin: 10px;
+}
+
+.deleteTab {
+    background-color: red;
+}
